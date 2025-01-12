@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tip Calculator App</string>
+    <string name="tip_amount">Số tiền tip: %s</string>
+
+</resources>
